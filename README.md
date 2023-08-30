@@ -31,7 +31,6 @@ In the course project, we'll build the front end (no back end) of a fictional we
 * Writing future-proof CSS with features like CSS variables or best-practice class names
 * Using Sass and what it actually is all about
 
-## Instructions and Navigation
 ### Assumed Knowledge
 This course is for anyone who wants to learn CSS for the first time or wants to sharpen their CSS skills. It’s also for anyone who's excited to learn about the latest CSS features like Flexbox, CSS Grid, CSS Variables, or anyone who knows CSS but wants to dive deeper.
    
