@@ -1,6 +1,16 @@
 # CSS Complete Guide: Revamped
 The repository improves the now abandoned and frustrating to use [CSS - The Complete Guide (incl. Flexbox, Grid and Sass)](https://github.com/PacktPublishing/CSS---The-Complete-Guide-incl.-Flexbox-Grid-and-Sass-) repository. It contains a restructed version of all the supporting project files required for the course.
 
+## Navigating the Repository
+### Structure
+```
+section-number/
+├─ section-title/
+│  ├─ file.css
+│  ├─ file.html
+│  ├─ resources.md
+```
+
 ## About the Video Course
 Every web developer has to know CSS. CSS, short for Cascading Style Sheets, is a "programming language" you use to turn your raw HTML pages into a really beautiful website. This course covers it all. We start at the very basics and gradually dive in deeper and deeper. We do this by showing you both practical examples and the theory behind them. 
 Getting started with CSS might look easy, but there actually is a lot of depth to CSS, so this course provides different "Tracks" or "Entry points" to exactly meet your demands and reflect your current knowledge level: 
